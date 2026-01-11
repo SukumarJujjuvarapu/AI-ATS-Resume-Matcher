@@ -45,7 +45,7 @@ Follow these steps to run the project locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/Resume-AI-Matcher.git](https://github.com/YourUsername/Resume-AI-Matcher.git)
+git clone [https://github.com/SukumarJujjuvarapu/Resume-AI-Matcher.git](https://github.com/SukumarJujjuvarapu/Resume-AI-Matcher.git)
 cd Resume-AI-Matcher
 
 Create a Virtual Environment (Optional but Recommended)

@@ -9,12 +9,7 @@
 
 This tool mimics the experience of a real ATS used by Fortune 500 companies. It analyzes your resume against a job description (JD) to provide a **match percentage**, **missing keywords**, and a **strategic improvement plan**.
 
----
 
-## 📸 Screenshots
-
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Your+App+Screenshot+Here)
-*(Replace this link with a screenshot of your actual running app)*
 
 ---
 

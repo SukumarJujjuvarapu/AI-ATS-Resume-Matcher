@@ -6,8 +6,7 @@ import json
 # --- CONFIGURATION ---
 # PASTE YOUR GROQ API KEY BELOW
 # Fetch key from Streamlit Secrets
-#api_key = st.secrets["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"]
-api_key = "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"
+api_key = "your_groq_api_key_here"
 
 client = Groq(api_key=api_key)
 
